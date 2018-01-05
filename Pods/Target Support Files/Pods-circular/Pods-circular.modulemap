@@ -1,0 +1,6 @@
+framework module Pods_circular {
+  umbrella header "Pods-circular-umbrella.h"
+
+  export *
+  module * { export * }
+}
